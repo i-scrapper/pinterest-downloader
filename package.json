@@ -1,0 +1,27 @@
+{
+  "name": "pinterest-downloader",
+  "version": "1.0.0",
+  "description": "pinterest-downloader - i-scrapper (botdownloader.com/pinterest-video-downloader)",
+  "main": "pinterest.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-scrapper/pinterest-downloader.git"
+  },
+  "keywords": [
+    "i-scrapper",
+    "pinterest-downloader"
+  ],
+  "author": "i-scrapper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i-scrapper/pinterest-downloader/issues"
+  },
+  "homepage": "https://github.com/i-scrapper/pinterest-downloader#readme",
+  "dependencies": {
+    "@i-scrapper/plugins-error": "^1.0.0",
+    "@i-scrapper/plugins-request": "^1.0.0"
+  }
+}
